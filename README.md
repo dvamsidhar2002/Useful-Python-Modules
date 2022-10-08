@@ -9,4 +9,13 @@ Python is a language used vastly across many domains or technical fields like da
 * Network automation/programming
 
 ### First of all what are python modules ?
-A python module is collection of different runnable codes, python statements and definitions. Grouping related code into a module makes the code easier to understand and use. It also makes the code logically organized, in short it reduces the amount of work to be done and also the complexity and lines of code.
+<justify>A python module is collection of different runnable codes, python statements and definitions. Grouping related code into a module makes the code easier to understand and use. It also makes the code logically organized, in short it reduces the amount of work to be done and also the complexity and lines of code.</justify>
+<br>
+### Most used modules in DATA SCIENCE
+
+1) Numpy
+2) Pandas
+3) Scipy
+4) Matplotlib
+5) Sci-kit Learn
+6) Seaborn
