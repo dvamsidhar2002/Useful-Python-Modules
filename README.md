@@ -7,3 +7,6 @@ Python is a language used vastly across many domains or technical fields like da
 * Web Development
 * Automation
 * Network automation/programming
+
+### First of all what are python modules
+A python module is collection of different runnable codes, python statements and definitions.
