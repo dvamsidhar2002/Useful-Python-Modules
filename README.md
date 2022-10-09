@@ -19,3 +19,27 @@ Python is a language used vastly across many domains or technical fields like da
 4) Matplotlib
 5) Sci-kit Learn
 6) Seaborn
+
+### Most used modules in GUI development 
+
+1) PyQt5
+2) Tkinter
+3) Kivy
+4) Dear PuGui
+5) PySide2
+
+### Most used modules in Game Development
+
+1) Pygame
+2) Pyglet
+3) Panda 3D
+4) pykyra
+5) Ursina
+
+### Most used modules in Web Development
+
+1) Django
+2) Cherry Py
+3) Flask
+4) Battle
+5) Web2pyd
