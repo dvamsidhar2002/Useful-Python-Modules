@@ -43,3 +43,11 @@ Python is a language used vastly across many domains or technical fields like da
 3) Flask
 4) Battle
 5) Web2pyd
+
+### Most used modules in Network Automation
+
+1) Netmika
+2) NAPALM
+3) Genie
+4) NCCClient
+5) Paramiko
