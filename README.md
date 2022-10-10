@@ -51,3 +51,11 @@ Python is a language used vastly across many domains or technical fields like da
 3) Genie
 4) NCCClient
 5) Paramiko
+
+### Most used modules in Automation
+
+1) Py auto GUI
+2) pywinauto
+3) Selenium
+4) Requests
+5) Beautifulsoup
