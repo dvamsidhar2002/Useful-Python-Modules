@@ -15,10 +15,10 @@ Python is a language used vastly across many domains or technical fields like da
 
 1) Numpy - ``` pip install numpy ``` 
 2) Pandas - ``` pip install pandas ```
-3) Scipy
+3) Scipy - ``` pip install scipy ```
 4) Matplotlib - ``` pip install matplotlib ``` 
-5) Sci-kit Learn
-6) Seaborn
+5) Sci-kit Learn - ``` pip install scikit-learn ```
+6) Seaborn - ``` pip install seaborn ``` 
 
 ### Most used modules in GUI development 
 
