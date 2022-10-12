@@ -13,8 +13,8 @@ Python is a language used vastly across many domains or technical fields like da
 <br>
 ### Most used modules in DATA SCIENCE
 
-1) Numpy - <i> pip install numpy</i>
-2) Pandas
+1) Numpy - ``` pip install numpy ``` 
+2) Pandas - ``` pip install pandas ```
 3) Scipy
 4) Matplotlib
 5) Sci-kit Learn
@@ -38,9 +38,9 @@ Python is a language used vastly across many domains or technical fields like da
 
 ### Most used modules in Web Development
 
-1) Django
+1) Django - ``` pip install django ``` 
 2) Cherry Py
-3) Flask
+3) Flask - ``` pip install Flask ``` 
 4) Battle
 5) Web2pyd
 
@@ -56,6 +56,7 @@ Python is a language used vastly across many domains or technical fields like da
 
 1) Py auto GUI
 2) pywinauto
-3) Selenium
-4) Requests
-5) Beautifulsoup
+3) Selenium - ``` pip install selenium ```
+4) Requests - ``` pip install requests ``` 
+5) Beautifulsoup - ``` pip install beautifulsoup4 ``` 
+ 
