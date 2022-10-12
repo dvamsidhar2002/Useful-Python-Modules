@@ -54,7 +54,7 @@ Python is a language used vastly across many domains or technical fields like da
 
 ### Most used modules in Automation
 
-1) Py auto GUI
+1) Py auto GUI - ``` pip install PyAutoGUI ```
 2) pywinauto
 3) Selenium - ``` pip install selenium ```
 4) Requests - ``` pip install requests ``` 
