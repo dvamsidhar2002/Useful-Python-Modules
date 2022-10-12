@@ -13,7 +13,7 @@ Python is a language used vastly across many domains or technical fields like da
 <br>
 ### Most used modules in DATA SCIENCE
 
-1) Numpy
+1) Numpy - <i> pip install numpy</i>
 2) Pandas
 3) Scipy
 4) Matplotlib
