@@ -37,8 +37,8 @@ Python is a language used vastly across many domains or technical fields like da
 1) Pygame
 2) Pyglet
 3) Panda 3D
-4) pykyra
-5) Ursina
+4) pykyra - ``` pip install pykira ```
+5) Ursina - ``` pip install ursina ```
 
 ### Most used modules in Web Development
 
