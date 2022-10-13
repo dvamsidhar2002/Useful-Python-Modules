@@ -22,7 +22,7 @@ Python is a language used vastly across many domains or technical fields like da
 
 ### Most used modules in GUI development 
 
-1) PyQt5
+1) PyQt5 - ``` pip install PyQt5 ```
 2) Tkinter
 3) Kivy
 4) Dear PuGui
