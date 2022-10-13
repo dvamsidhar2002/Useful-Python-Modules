@@ -47,7 +47,7 @@ Python is a language used vastly across many domains or technical fields like da
 ### Most used modules in Network Automation
 
 1) Netmiko - ``` pip install netmiko ``` 
-2) NAPALM
+2) NAPALM - ``` pip install napalm ```
 3) Genie
 4) NCCClient
 5) Paramiko
