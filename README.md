@@ -34,9 +34,9 @@ Python is a language used vastly across many domains or technical fields like da
 
 ### Most used modules in Game Development
 
-1) Pygame
-2) Pyglet
-3) Panda 3D
+1) Pygame - ``` pip install pygame ``` 
+2) Pyglet - ``` pip install pyglet ``` 
+3) Panda 3D - ``` pip install Panda3D ```
 4) pykyra - ``` pip install pykira ```
 5) Ursina - ``` pip install ursina ```
 
