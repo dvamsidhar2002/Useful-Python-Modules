@@ -43,9 +43,9 @@ Python is a language used vastly across many domains or technical fields like da
 ### Most used modules in Web Development
 
 1) Django - ``` pip install django ``` 
-2) Cherry Py
+2) Cherry Py - ``` pip install CherryPy ```
 3) Flask - ``` pip install Flask ``` 
-4) Battle
+4) Battle 
 5) Web2pyd
 
 ### Most used modules in Network Automation
