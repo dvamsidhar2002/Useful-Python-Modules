@@ -49,8 +49,8 @@ Python is a language used vastly across many domains or technical fields like da
 1) Netmiko - ``` pip install netmiko ``` 
 2) NAPALM - ``` pip install napalm ```
 3) Genie - ``` pip install genie ```
-4) NCCClient
-5) Paramiko
+4) NCClient - ``` pip install ncclient ``` 
+5) Paramiko - ``` pip install paramiko ```
 
 ### Most used modules in Automation
 
