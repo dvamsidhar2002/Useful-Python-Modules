@@ -46,7 +46,7 @@ Python is a language used vastly across many domains or technical fields like da
 2) Cherry Py - ``` pip install CherryPy ```
 3) Flask - ``` pip install Flask ``` 
 4) Battle 
-5) Web2pyd
+5) Web2py
 
 ### Most used modules in Network Automation
 
