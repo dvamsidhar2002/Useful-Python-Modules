@@ -17,10 +17,10 @@ Python is a language used vastly across many domains or technical fields like da
 
 ### Most used modules in DATA SCIENCE
 
-1) Numpy - ``` pip install numpy ``` 
-2) Pandas - ``` pip install pandas ```
+1) Numpy - ``` pip install numpy ``` -> NumPy aims to use of array object to save and use the data which faster than traditional python lists.
+2) Pandas - ``` pip install pandas ``` -> Pandas module aims to data manipulation and importing the data into the respective workspace.
 3) Scipy - ``` pip install scipy ```
-4) Matplotlib - ``` pip install matplotlib ``` 
+4) Matplotlib - ``` pip install matplotlib ``` -> Matplotlib aims to visualization of the data imported in the form of line graphs, scatter plots, histograms etc.
 5) Sci-kit Learn - ``` pip install scikit-learn ```
 6) Seaborn - ``` pip install seaborn ``` 
 
